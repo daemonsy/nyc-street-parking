@@ -1,0 +1,28 @@
+{
+  "name": "nyc-street-parking",
+  "version": "0.0.1",
+  "description": "A flash briefing skill to tell if Alternate Side Parking in NYC is in effect",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daemonsy/nyc-street-parking.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Flash",
+    "Briefing"
+  ],
+  "author": "Damon Aw <daemonsy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daemonsy/nyc-street-parking/issues"
+  },
+  "homepage": "https://github.com/daemonsy/nyc-street-parking#readme",
+  "dependencies": {
+    "ask-sdk": "^2.0.10"
+  }
+}
