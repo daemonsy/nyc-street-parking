@@ -5,7 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "rm -f suspension.zip && npm install --production && zip -r suspension.zip . -x *.git*"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,10 @@
   },
   "homepage": "https://github.com/daemonsy/nyc-street-parking#readme",
   "dependencies": {
-    "ask-sdk": "^2.0.10"
+    "luxon": "^1.4.3"
+  },
+  "devDependencies": {
+    "node-ical": "^0.7.0",
+    "request": "^2.88.0"
   }
 }
