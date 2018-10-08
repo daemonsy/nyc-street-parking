@@ -34,7 +34,7 @@ exports.flashBriefingHandler = (event, context, callback) => {
 
     Object.assign(results, {
       mainText: isSameDay ? entry.description : `The next suspension is on ${DateTime.fromISO(entry.start).toFormat('cccc, MMMM d ')} for ${entry.event}`,
-      uid: `${process.env.VERSION || 'v2'}-${entry.uid}--${today.weekNumber()}-${startDate.hasSame(now, 'day')}`,
+      uid: `${process.env.VERSION || 'v2'}-${entry.uid}--${now.weekNumber()}-${startDate.hasSame(now, 'day')}`,
       updateDate: entry.end
     });
   }
