@@ -6,6 +6,7 @@ const request = require('request');
 const { DateTime } = require('luxon');
 
 const thisYear = new Date().getFullYear();
+const matcher = /^Alternate Side Parking suspended for ([A-z '().-]+)/;
 
 const aspURL = (year = thisYear) =>
   `http://www.nyc.gov/html/dot/downloads/misc/${year}-alternate-side.ics`;
@@ -17,6 +18,7 @@ const writeICSFileToJSON = (ics, year) => {
     const cleansedData = JSON.parse(JSON.stringify(data)); // Object bug in iCal library reading the date as a key?
 
     const byDate = Object.values(cleansedData).reduce((accum, calEntry) => {
+      let event = null;
       const date = DateTime.fromISO(calEntry.start).toFormat('yyyy/MM/dd');
 
       if(accum[date]) {
@@ -31,12 +33,18 @@ const writeICSFileToJSON = (ics, year) => {
 
         `);
       }
+      console.log(calEntry.description.split('. ')[0]);
+      const match = matcher.exec(calEntry.description.split('. ')[0]);
+      if (match) {
+        event = match[1].replace('.', '');
+      }
 
       accum[date] = {
         description: calEntry.description,
         start: calEntry.start,
         end: calEntry.end,
-        uid: calEntry.uid
+        uid: calEntry.uid,
+        event
       };
 
       return accum;

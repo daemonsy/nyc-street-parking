@@ -1,1 +1,289 @@
-{"2018/01/01":{"description":"Alternate Side Parking suspended for New Year's Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping, standing and parking rules are in effect seven days a week(for example, \"No Standing Anytime\").","start":"2018-01-01T05:00:00.000Z","end":"2018-01-02T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000C0E035427F51D3010000000000000000100000006C09FE9119584546B04559F6C0AB55C9"},"2018/01/15":{"description":"Alternate Side Parking suspended for Martin Luther King Jr.'s Birthday. Parking meters will be in effect.","start":"2018-01-15T05:00:00.000Z","end":"2018-01-16T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000008020507F51D3010000000000000000100000003ECDD34CAB88CE41840C563692949808"},"2018/02/12":{"description":"Alternate Side Parking suspended for Lincoln's Birthday. Parking meters will be in effect.","start":"2018-02-12T05:00:00.000Z","end":"2018-02-13T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000020F0855A7F51D301000000000000000010000000E6307522FE69834D96A27BE4D06BC9CE"},"2018/02/14":{"description":"Alternate Side Parking suspended for Ash Wednesday. Parking meters will be in effect.","start":"2018-02-14T05:00:00.000Z","end":"2018-02-15T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000060A8456B7F51D3010000000000000000100000001FF75FE9E6F6FC478132B73BA09591C1"},"2018/02/16":{"description":"Alternate Side Parking suspended for Asian Lunar New Year. Parking meters will be in effect.","start":"2018-02-16T05:00:00.000Z","end":"2018-02-17T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000B00418797F51D3010000000000000000100000005EE23763FCD2B24494EE27A333B0B3E8"},"2018/02/19":{"description":"Alternate Side Parking suspended for Washington's Birthday (Presidents Day). Parking meters will be in effect.","start":"2018-02-19T05:00:00.000Z","end":"2018-02-20T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000050DC91827F51D301000000000000000010000000B4DE1001779D3C4192FB75C3F6F71646"},"2018/03/01":{"description":"Alternate Side Parking suspended for Purim. Parking meters will be in effect.","start":"2018-03-01T05:00:00.000Z","end":"2018-03-02T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E008000000001010E08B7F51D301000000000000000010000000160C282545FD4049BA4D02601D49F831"},"2018/03/29":{"description":"Alternate Side Parking suspended for Holy Thursday. Parking meters will be in effect.","start":"2018-03-29T04:00:00.000Z","end":"2018-03-30T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000050D1FA977F51D301000000000000000010000000995BF080634419418F62BCBBC79FCCB8"},"2018/03/30":{"description":"Alternate Side Parking suspended for Good Friday. Parking meters will be in effect.","start":"2018-03-30T04:00:00.000Z","end":"2018-03-31T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000E0403AA97F51D301000000000000000010000000C4A15E083DCCFD42B1D85EFB009835C2"},"2018/03/31":{"description":"Alternate Side Parking suspended for the first day of Passover. Parking meters will be in effect.","start":"2018-03-31T04:00:00.000Z","end":"2018-04-01T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000F046BFB37F51D3010000000000000000100000009F74D76BEDBF6948BA5C9073A8630FD3"},"2018/04/01":{"description":"Alternate Side Parking suspended for the second day of Passover. Parking meters will be in effect.","start":"2018-04-01T04:00:00.000Z","end":"2018-04-02T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000A0B1A4BD7F51D301000000000000000010000000262661954EAF82468CD97C9014EDED9B"},"2018/04/05":{"description":"Alternate Side Parking suspended for Orthodox Holy Thursday. Parking meters will be in effect.","start":"2018-04-05T04:00:00.000Z","end":"2018-04-06T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000070B436CC7F51D3010000000000000000100000003B00AD56C6EB9E45B584E09632032602"},"2018/04/06":{"description":"Alternate Side Parking suspended for the seventh day of Passover. Parking meters will be in effect.","start":"2018-04-06T04:00:00.000Z","end":"2018-04-07T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D0A2F4DD7F51D3010000000000000000100000002C5E9DBCB0F01C4FB13A76D91EDF82E5"},"2018/04/07":{"description":"Alternate Side Parking suspended for the eighth day of Passover. Parking meters will be in effect.","start":"2018-04-07T04:00:00.000Z","end":"2018-04-08T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000203F45F17F51D3010000000000000000100000001DE00107EAE9BA4DB05DB9448CF8A378"},"2018/05/10":{"description":"Alternate Side Parking suspended for Solemnity of the Ascension. Parking meters will be in effect.","start":"2018-05-10T04:00:00.000Z","end":"2018-05-11T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000010AE070C8051D3010000000000000000100000006DCAF90D038DAB4A8AE8D7A4416C8560"},"2018/05/20":{"description":"Alternate Side Parking suspended for Shavuot. Parking meters will be in effect.","start":"2018-05-20T04:00:00.000Z","end":"2018-05-21T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000010E59B188051D30100000000000000001000000044B3F7DDEE352347B256C1D58D301178"},"2018/05/21":{"description":"Alternate Side Parking suspended for Shavuot. Parking meters will be in effect.","start":"2018-05-21T04:00:00.000Z","end":"2018-05-22T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000501D5F1E8051D3010000000000000000100000001B959B58656F394E9942169562215263"},"2018/05/28":{"description":"Alternate Side Parking suspended for Memorial Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").","start":"2018-05-28T04:00:00.000Z","end":"2018-05-29T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000E0994C248051D301000000000000000010000000515072B5ECB1BA4A94F4BA5E420C6F6C"},"2018/06/15":{"description":"Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.","start":"2018-06-15T04:00:00.000Z","end":"2018-06-16T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E008000000001067553C8051D30100000000000000001000000088A42E2D4D209A41919064D01891F6DD"},"2018/06/16":{"description":"Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.","start":"2018-06-16T04:00:00.000Z","end":"2018-06-17T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000090B1B2418051D301000000000000000010000000D05A91169DA00E448224C5EC8C12975E"},"2018/06/17":{"description":"Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.","start":"2018-06-17T04:00:00.000Z","end":"2018-06-18T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000A0901D478051D30100000000000000001000000021A438C3460C7042B75C3AADF6FCB570"},"2018/07/04":{"description":"Alternate Side Parking suspended for Independence Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week(for example, \"No  Standing Anytime\").","start":"2018-07-04T04:00:00.000Z","end":"2018-07-05T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000020E0F3508051D301000000000000000010000000CF10043D60EE42408D2BBAA8CE2B8E3E"},"2018/08/15":{"description":"Alternate Side Parking suspended for Feast of the Assumption. Parking meters will be in effect.","start":"2018-08-15T04:00:00.000Z","end":"2018-08-16T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000E064675C8051D301000000000000000010000000010BA9D506F94D4FAAD7FD180E44A8BF"},"2018/08/21":{"description":"Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.","start":"2018-08-21T04:00:00.000Z","end":"2018-08-22T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000040C372658051D30100000000000000001000000059219D54D84B504592B43E2D893416BF"},"2018/08/22":{"description":"Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.","start":"2018-08-22T04:00:00.000Z","end":"2018-08-23T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000A02F70698051D301000000000000000010000000300CBB4DBF19E449A93D8529104DD0FC"},"2018/08/23":{"description":"Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.","start":"2018-08-23T04:00:00.000Z","end":"2018-08-24T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D05DCC6D8051D3010000000000000000100000005A92EA0036E14844BA40E95937F092B6"},"2018/09/03":{"description":"Alternate Side Parking suspended for Labor Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping, standing and parking rules are in effect seven days a week(for example, \"No Standing Anytime\").","start":"2018-09-03T04:00:00.000Z","end":"2018-09-04T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000B09B0D828051D301000000000000000010000000C5E05F6AA283C849A76B637CF899FC3E"},"2018/09/10":{"description":"Alternate Side Parking suspended for Rosh Hashanah. Parking meters will be in effect.","start":"2018-09-10T04:00:00.000Z","end":"2018-09-11T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D09151878051D3010000000000000000100000003238D6C9B1947D4C89ED2B97C2884C33"},"2018/09/11":{"description":"Alternate Side Parking suspended for Rosh Hashanah. Parking meters will be in effect.","start":"2018-09-11T04:00:00.000Z","end":"2018-09-12T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000A00F508B8051D3010000000000000000100000000B4CF4BBC114C0458F60A2D1BE8F916F"},"2018/09/19":{"description":"Alternate Side Parking suspended for Yom Kippur. Parking meters will be in effect.","start":"2018-09-19T04:00:00.000Z","end":"2018-09-20T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000030C0E78F8051D3010000000000000000100000006F998C3B38924A49B18C586BF70C3CF4"},"2018/09/24":{"description":"Alternate Side Parking suspended for Succoth. Parking meters will be in effect.","start":"2018-09-24T04:00:00.000Z","end":"2018-09-25T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000070F6C8978051D301000000000000000010000000E64C8147CC28274A8A97FA4236757A40"},"2018/09/25":{"description":"Alternate Side Parking suspended for Succoth. Parking meters will be in effect.","start":"2018-09-25T04:00:00.000Z","end":"2018-09-26T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E008000000007029649C8051D3010000000000000000100000001C2FCF34E6B119478D47EDC52726ACB5"},"2018/10/01":{"description":"Alternate Side Parking suspended for Shemini Atzereth. Parking meters will be in effect.","start":"2018-10-01T04:00:00.000Z","end":"2018-10-02T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E0080000000030CA1ECC8051D301000000000000000010000000B99594FCF949334EB807206262BC5FFE"},"2018/10/02":{"description":"Alternate Side Parking suspended for Simchas Torah. Parking meters will be in effect.","start":"2018-10-02T04:00:00.000Z","end":"2018-10-03T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D0DB42BF8051D301000000000000000010000000FEC4295EBB98E24AB0916A6611392A99"},"2018/10/08":{"description":"Alternate Side Parking suspended for Columbus Day. Parking meters will be in effect.","start":"2018-10-08T04:00:00.000Z","end":"2018-10-09T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D0DEF0D68051D301000000000000000010000000C8993A64266E52419E2D73268B534148"},"2018/11/01":{"description":"Alternate Side Parking suspended for All Saints Day. Parking meters will be in effect.","start":"2018-11-01T04:00:00.000Z","end":"2018-11-02T04:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000800FA4E38051D301000000000000000010000000A08FB353BF7A9D4696C43FE9C641EF02"},"2018/11/06":{"description":"Alternate Side Parking suspended for Election Day. Parking meters will be in effect.","start":"2018-11-06T05:00:00.000Z","end":"2018-11-07T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000501181E98051D3010000000000000000100000004473F94B305FC64AA1E761A8006A10E2"},"2018/11/12":{"description":"Alternate Side Parking suspended for Veterans Day (Observed). Parking meters will be in effect.","start":"2018-11-12T05:00:00.000Z","end":"2018-11-13T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000001FC0F18051D3010000000000000000100000003D19DA1A5CF91646BE3DEB96A4FC2795"},"2018/11/22":{"description":"Alternate Side Parking suspended for Thanksgiving Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").","start":"2018-11-22T05:00:00.000Z","end":"2018-11-23T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000808101FB8051D30100000000000000001000000083E83D2B8C94994998A5C670CA7CCE69"},"2018/12/08":{"description":"Alternate Side Parking suspended for Immaculate Conception. Parking meters will be in effect.","start":"2018-12-08T05:00:00.000Z","end":"2018-12-09T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000D0058C058151D301000000000000000010000000D9A492B439A3024C8BECE3E8071BD12D"},"2018/12/25":{"description":"Alternate Side Parking suspended for Christmas Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").","start":"2018-12-25T05:00:00.000Z","end":"2018-12-26T05:00:00.000Z","uid":"040000008200E00074C5B7101A82E00800000000A044500A8151D30100000000000000001000000078A9CDFAC3B37746A90E0EDD4FB278EE"}}
+{
+  "2018/01/01": {
+    "description": "Alternate Side Parking suspended for New Year's Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping, standing and parking rules are in effect seven days a week(for example, \"No Standing Anytime\").",
+    "start": "2018-01-01T05:00:00.000Z",
+    "end": "2018-01-02T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000C0E035427F51D3010000000000000000100000006C09FE9119584546B04559F6C0AB55C9",
+    "event": "New Year's Day"
+  },
+  "2018/01/15": {
+    "description": "Alternate Side Parking suspended for Martin Luther King Jr.'s Birthday. Parking meters will be in effect.",
+    "start": "2018-01-15T05:00:00.000Z",
+    "end": "2018-01-16T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000008020507F51D3010000000000000000100000003ECDD34CAB88CE41840C563692949808",
+    "event": "Martin Luther King Jr's Birthday"
+  },
+  "2018/02/12": {
+    "description": "Alternate Side Parking suspended for Lincoln's Birthday. Parking meters will be in effect.",
+    "start": "2018-02-12T05:00:00.000Z",
+    "end": "2018-02-13T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000020F0855A7F51D301000000000000000010000000E6307522FE69834D96A27BE4D06BC9CE",
+    "event": "Lincoln's Birthday"
+  },
+  "2018/02/14": {
+    "description": "Alternate Side Parking suspended for Ash Wednesday. Parking meters will be in effect.",
+    "start": "2018-02-14T05:00:00.000Z",
+    "end": "2018-02-15T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000060A8456B7F51D3010000000000000000100000001FF75FE9E6F6FC478132B73BA09591C1",
+    "event": "Ash Wednesday"
+  },
+  "2018/02/16": {
+    "description": "Alternate Side Parking suspended for Asian Lunar New Year. Parking meters will be in effect.",
+    "start": "2018-02-16T05:00:00.000Z",
+    "end": "2018-02-17T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000B00418797F51D3010000000000000000100000005EE23763FCD2B24494EE27A333B0B3E8",
+    "event": "Asian Lunar New Year"
+  },
+  "2018/02/19": {
+    "description": "Alternate Side Parking suspended for Washington's Birthday (Presidents Day). Parking meters will be in effect.",
+    "start": "2018-02-19T05:00:00.000Z",
+    "end": "2018-02-20T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000050DC91827F51D301000000000000000010000000B4DE1001779D3C4192FB75C3F6F71646",
+    "event": "Washington's Birthday (Presidents Day)"
+  },
+  "2018/03/01": {
+    "description": "Alternate Side Parking suspended for Purim. Parking meters will be in effect.",
+    "start": "2018-03-01T05:00:00.000Z",
+    "end": "2018-03-02T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E008000000001010E08B7F51D301000000000000000010000000160C282545FD4049BA4D02601D49F831",
+    "event": "Purim"
+  },
+  "2018/03/29": {
+    "description": "Alternate Side Parking suspended for Holy Thursday. Parking meters will be in effect.",
+    "start": "2018-03-29T04:00:00.000Z",
+    "end": "2018-03-30T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000050D1FA977F51D301000000000000000010000000995BF080634419418F62BCBBC79FCCB8",
+    "event": "Holy Thursday"
+  },
+  "2018/03/30": {
+    "description": "Alternate Side Parking suspended for Good Friday and seventh day of passover. Parking meters will be in effect.",
+    "start": "2018-03-30T04:00:00.000Z",
+    "end": "2018-03-31T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000E0403AA97F51D301000000000000000010000000C4A15E083DCCFD42B1D85EFB009835C2",
+    "event": "Good Friday and seventh day of passover"
+  },
+  "2018/03/31": {
+    "description": "Alternate Side Parking suspended for the first day of Passover. Parking meters will be in effect.",
+    "start": "2018-03-31T04:00:00.000Z",
+    "end": "2018-04-01T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000F046BFB37F51D3010000000000000000100000009F74D76BEDBF6948BA5C9073A8630FD3",
+    "event": "the first day of Passover"
+  },
+  "2018/04/01": {
+    "description": "Alternate Side Parking suspended for the second day of Passover. Parking meters will be in effect.",
+    "start": "2018-04-01T04:00:00.000Z",
+    "end": "2018-04-02T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000A0B1A4BD7F51D301000000000000000010000000262661954EAF82468CD97C9014EDED9B",
+    "event": "the second day of Passover"
+  },
+  "2018/04/05": {
+    "description": "Alternate Side Parking suspended for Orthodox Holy Thursday. Parking meters will be in effect.",
+    "start": "2018-04-05T04:00:00.000Z",
+    "end": "2018-04-06T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000070B436CC7F51D3010000000000000000100000003B00AD56C6EB9E45B584E09632032602",
+    "event": "Orthodox Holy Thursday"
+  },
+  "2018/04/06": {
+    "description": "Alternate Side Parking suspended for the seventh day of Passover. Parking meters will be in effect.",
+    "start": "2018-04-06T04:00:00.000Z",
+    "end": "2018-04-07T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D0A2F4DD7F51D3010000000000000000100000002C5E9DBCB0F01C4FB13A76D91EDF82E5",
+    "event": "the seventh day of Passover"
+  },
+  "2018/04/07": {
+    "description": "Alternate Side Parking suspended for the eighth day of Passover. Parking meters will be in effect.",
+    "start": "2018-04-07T04:00:00.000Z",
+    "end": "2018-04-08T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000203F45F17F51D3010000000000000000100000001DE00107EAE9BA4DB05DB9448CF8A378",
+    "event": "the eighth day of Passover"
+  },
+  "2018/05/10": {
+    "description": "Alternate Side Parking suspended for Solemnity of the Ascension. Parking meters will be in effect.",
+    "start": "2018-05-10T04:00:00.000Z",
+    "end": "2018-05-11T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000010AE070C8051D3010000000000000000100000006DCAF90D038DAB4A8AE8D7A4416C8560",
+    "event": "Solemnity of the Ascension"
+  },
+  "2018/05/20": {
+    "description": "Alternate Side Parking suspended for Shavuot. Parking meters will be in effect.",
+    "start": "2018-05-20T04:00:00.000Z",
+    "end": "2018-05-21T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000010E59B188051D30100000000000000001000000044B3F7DDEE352347B256C1D58D301178",
+    "event": "Shavuot"
+  },
+  "2018/05/21": {
+    "description": "Alternate Side Parking suspended for Shavuot. Parking meters will be in effect.",
+    "start": "2018-05-21T04:00:00.000Z",
+    "end": "2018-05-22T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000501D5F1E8051D3010000000000000000100000001B959B58656F394E9942169562215263",
+    "event": "Shavuot"
+  },
+  "2018/05/28": {
+    "description": "Alternate Side Parking suspended for Memorial Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").",
+    "start": "2018-05-28T04:00:00.000Z",
+    "end": "2018-05-29T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000E0994C248051D301000000000000000010000000515072B5ECB1BA4A94F4BA5E420C6F6C",
+    "event": "Memorial Day"
+  },
+  "2018/06/15": {
+    "description": "Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.",
+    "start": "2018-06-15T04:00:00.000Z",
+    "end": "2018-06-16T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E008000000001067553C8051D30100000000000000001000000088A42E2D4D209A41919064D01891F6DD",
+    "event": "Eid al-Fitr"
+  },
+  "2018/06/16": {
+    "description": "Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.",
+    "start": "2018-06-16T04:00:00.000Z",
+    "end": "2018-06-17T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000090B1B2418051D301000000000000000010000000D05A91169DA00E448224C5EC8C12975E",
+    "event": "Eid al-Fitr"
+  },
+  "2018/06/17": {
+    "description": "Alternate Side Parking suspended for Eid al-Fitr. Parking meters will be in effect.",
+    "start": "2018-06-17T04:00:00.000Z",
+    "end": "2018-06-18T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000A0901D478051D30100000000000000001000000021A438C3460C7042B75C3AADF6FCB570",
+    "event": "Eid al-Fitr"
+  },
+  "2018/07/04": {
+    "description": "Alternate Side Parking suspended for Independence Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week(for example, \"No  Standing Anytime\").",
+    "start": "2018-07-04T04:00:00.000Z",
+    "end": "2018-07-05T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000020E0F3508051D301000000000000000010000000CF10043D60EE42408D2BBAA8CE2B8E3E",
+    "event": "Independence Day"
+  },
+  "2018/08/15": {
+    "description": "Alternate Side Parking suspended for Feast of the Assumption. Parking meters will be in effect.",
+    "start": "2018-08-15T04:00:00.000Z",
+    "end": "2018-08-16T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000E064675C8051D301000000000000000010000000010BA9D506F94D4FAAD7FD180E44A8BF",
+    "event": "Feast of the Assumption"
+  },
+  "2018/08/21": {
+    "description": "Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.",
+    "start": "2018-08-21T04:00:00.000Z",
+    "end": "2018-08-22T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000040C372658051D30100000000000000001000000059219D54D84B504592B43E2D893416BF",
+    "event": "Eid al-Adha"
+  },
+  "2018/08/22": {
+    "description": "Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.",
+    "start": "2018-08-22T04:00:00.000Z",
+    "end": "2018-08-23T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000A02F70698051D301000000000000000010000000300CBB4DBF19E449A93D8529104DD0FC",
+    "event": "Eid al-Adha"
+  },
+  "2018/08/23": {
+    "description": "Alternate Side Parking suspended for Eid al-Adha. Parking meters will be in effect.",
+    "start": "2018-08-23T04:00:00.000Z",
+    "end": "2018-08-24T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D05DCC6D8051D3010000000000000000100000005A92EA0036E14844BA40E95937F092B6",
+    "event": "Eid al-Adha"
+  },
+  "2018/09/03": {
+    "description": "Alternate Side Parking suspended for Labor Day. Parking meters will not be in effect. Stopping, standing and parking are permitted, except in areas where stopping, standing and parking rules are in effect seven days a week(for example, \"No Standing Anytime\").",
+    "start": "2018-09-03T04:00:00.000Z",
+    "end": "2018-09-04T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000B09B0D828051D301000000000000000010000000C5E05F6AA283C849A76B637CF899FC3E",
+    "event": "Labor Day"
+  },
+  "2018/09/10": {
+    "description": "Alternate Side Parking suspended for Rosh Hashanah. Parking meters will be in effect.",
+    "start": "2018-09-10T04:00:00.000Z",
+    "end": "2018-09-11T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D09151878051D3010000000000000000100000003238D6C9B1947D4C89ED2B97C2884C33",
+    "event": "Rosh Hashanah"
+  },
+  "2018/09/11": {
+    "description": "Alternate Side Parking suspended for Rosh Hashanah. Parking meters will be in effect.",
+    "start": "2018-09-11T04:00:00.000Z",
+    "end": "2018-09-12T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000A00F508B8051D3010000000000000000100000000B4CF4BBC114C0458F60A2D1BE8F916F",
+    "event": "Rosh Hashanah"
+  },
+  "2018/09/19": {
+    "description": "Alternate Side Parking suspended for Yom Kippur. Parking meters will be in effect.",
+    "start": "2018-09-19T04:00:00.000Z",
+    "end": "2018-09-20T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000030C0E78F8051D3010000000000000000100000006F998C3B38924A49B18C586BF70C3CF4",
+    "event": "Yom Kippur"
+  },
+  "2018/09/24": {
+    "description": "Alternate Side Parking suspended for Succoth. Parking meters will be in effect.",
+    "start": "2018-09-24T04:00:00.000Z",
+    "end": "2018-09-25T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000070F6C8978051D301000000000000000010000000E64C8147CC28274A8A97FA4236757A40",
+    "event": "Succoth"
+  },
+  "2018/09/25": {
+    "description": "Alternate Side Parking suspended for Succoth. Parking meters will be in effect.",
+    "start": "2018-09-25T04:00:00.000Z",
+    "end": "2018-09-26T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E008000000007029649C8051D3010000000000000000100000001C2FCF34E6B119478D47EDC52726ACB5",
+    "event": "Succoth"
+  },
+  "2018/10/01": {
+    "description": "Alternate Side Parking suspended for Shemini Atzereth. Parking meters will be in effect.",
+    "start": "2018-10-01T04:00:00.000Z",
+    "end": "2018-10-02T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E0080000000030CA1ECC8051D301000000000000000010000000B99594FCF949334EB807206262BC5FFE",
+    "event": "Shemini Atzereth"
+  },
+  "2018/10/02": {
+    "description": "Alternate Side Parking suspended for Simchas Torah. Parking meters will be in effect.",
+    "start": "2018-10-02T04:00:00.000Z",
+    "end": "2018-10-03T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D0DB42BF8051D301000000000000000010000000FEC4295EBB98E24AB0916A6611392A99",
+    "event": "Simchas Torah"
+  },
+  "2018/10/08": {
+    "description": "Alternate Side Parking suspended for Columbus Day. Parking meters will be in effect.",
+    "start": "2018-10-08T04:00:00.000Z",
+    "end": "2018-10-09T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D0DEF0D68051D301000000000000000010000000C8993A64266E52419E2D73268B534148",
+    "event": "Columbus Day"
+  },
+  "2018/11/01": {
+    "description": "Alternate Side Parking suspended for All Saints Day. Parking meters will be in effect.",
+    "start": "2018-11-01T04:00:00.000Z",
+    "end": "2018-11-02T04:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000800FA4E38051D301000000000000000010000000A08FB353BF7A9D4696C43FE9C641EF02",
+    "event": "All Saints Day"
+  },
+  "2018/11/06": {
+    "description": "Alternate Side Parking suspended for Election Day and Diwali. Parking meters will be in effect.",
+    "start": "2018-11-06T05:00:00.000Z",
+    "end": "2018-11-07T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000501181E98051D3010000000000000000100000004473F94B305FC64AA1E761A8006A10E2",
+    "event": "Election Day and Diwali"
+  },
+  "2018/11/12": {
+    "description": "Alternate Side Parking suspended for Veterans Day (Observed). Parking meters will be in effect.",
+    "start": "2018-11-12T05:00:00.000Z",
+    "end": "2018-11-13T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000001FC0F18051D3010000000000000000100000003D19DA1A5CF91646BE3DEB96A4FC2795",
+    "event": "Veterans Day (Observed)"
+  },
+  "2018/11/22": {
+    "description": "Alternate Side Parking suspended for Thanksgiving Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").",
+    "start": "2018-11-22T05:00:00.000Z",
+    "end": "2018-11-23T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000808101FB8051D30100000000000000001000000083E83D2B8C94994998A5C670CA7CCE69",
+    "event": "Thanksgiving Day"
+  },
+  "2018/12/08": {
+    "description": "Alternate Side Parking suspended for Immaculate Conception. Parking meters will be in effect.",
+    "start": "2018-12-08T05:00:00.000Z",
+    "end": "2018-12-09T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000D0058C058151D301000000000000000010000000D9A492B439A3024C8BECE3E8071BD12D",
+    "event": "Immaculate Conception"
+  },
+  "2018/12/25": {
+    "description": "Alternate Side Parking suspended for Christmas Day. Parking meters will not be in effect.Stopping, standing and parking are permitted, except in areas where stopping,standing and parking rules are in effect seven days a week (for example, \"No  Standing Anytime\").",
+    "start": "2018-12-25T05:00:00.000Z",
+    "end": "2018-12-26T05:00:00.000Z",
+    "uid": "040000008200E00074C5B7101A82E00800000000A044500A8151D30100000000000000001000000078A9CDFAC3B37746A90E0EDD4FB278EE",
+    "event": "Christmas Day"
+  }
+}
