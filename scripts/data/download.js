@@ -31,7 +31,14 @@ const writeICSFileToJSON = (ics, year) => {
 
         `);
       }
-      accum[date] = { description: calEntry.description, start: calEntry.start };
+
+      accum[date] = {
+        description: calEntry.description,
+        start: calEntry.start,
+        end: calEntry.end,
+        uid: calEntry.uid
+      };
+
       return accum;
     }, {});
 
